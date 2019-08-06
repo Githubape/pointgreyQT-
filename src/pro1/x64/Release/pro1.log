@@ -1,0 +1,9 @@
+﻿  Moc'ing pro1.h...
+  Moc'ing matview.h...
+  main.cpp
+  matview.cpp
+  pro1.cpp
+  qrc_pro1.cpp
+  moc_pro1.cpp
+  moc_matview.cpp
+f:\work\qt\testqt_c3\src\pro1\matview.cpp(2): fatal error C1083: 无法打开包括文件: “opencv2/imgproc.hpp”: No such file or directory

@@ -1,0 +1,25 @@
+﻿  Uic'ing pro1.ui...
+  Rcc'ing pro1.qrc...
+  Moc'ing pro1.h...
+  Moc'ing matview.h...
+  Moc'ing Matthread.h...
+   RCC: Warning: No resources in 'F:\work\Qt\testqt_c3\src\pro1\pro1.qrc'.
+  context.cpp
+  dealmat.cpp
+  grab-c.cpp
+  init-c.cpp
+  main.cpp
+  Matthread.cpp
+  matview.cpp
+  pro1.cpp
+  shut.cpp
+  start-cap.cpp
+  stopcap-c.cpp
+  qrc_pro1.cpp
+  moc_pro1.cpp
+  moc_matview.cpp
+  moc_Matthread.cpp
+x64\Debug\moc_Matthread.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\moc_matview.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\moc_pro1.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  pro1.vcxproj -> F:\work\Qt\testqt_c3\src\pro1\x64\Debug\pro1.exe
